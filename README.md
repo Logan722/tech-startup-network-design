@@ -41,6 +41,6 @@ The network uses a three-tier architecture (core, distribution, and access layer
 
 ## Team
 
-- [Team Member 1] — Topic, Motivation, Overall Plan
-- [Team Member 2] — Number of Major Areas, Security Measures
-- [Team Member 3] — Type and Number of Devices, Packet Tracer Screenshot
+- Karrie Butcher — Topic, Motivation, Overall Plan
+- Daniel Opemipo Oni — Number of Major Areas, Security Measures
+- Camryn McPhaul — Type and Number of Devices, Packet Tracer Screenshot
