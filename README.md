@@ -12,7 +12,7 @@ Designing and simulating a secure tech startup network with VLAN segmentation, D
 ## Repository Structure
 
 ```
-├── checkpoints/       # Project checkpoint deliverables
+├── deliverables/      # Checkpoint reports and project deliverables
 ├── presentations/     # Slide decks
 ├── media/             # Topology screenshots and visuals
 ├── docs/              # Additional documentation
