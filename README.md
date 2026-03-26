@@ -1,7 +1,5 @@
 # Tech Startup Network Design
 
-**CS 7/5344 — Networking and Data Communications**
-
 Designing and simulating a secure tech startup network with VLAN segmentation, DMZ, and VPN access using Cisco Packet Tracer.
 
 ## Team
